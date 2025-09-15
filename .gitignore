@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# CSV o archivos generados (opcional)
+dolar_blue.csv
+*.png
